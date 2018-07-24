@@ -3,11 +3,11 @@ Users can change the nodes in the Driver.java file.
 
 
 # output format
-                                       nn
-                   nn                                      nn
-         nn                  nn                  nn                  nn
-    nn        nn        nn        nn        nn        nn        nn        nn
- nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn
+                                         nn
+                     nn                                      nn
+           nn                  nn                  nn                  nn
+      nn        nn        nn        nn        nn        nn        nn        nn
+    nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn   nn
  
 # sample final tree output:<br/>
                                         8
